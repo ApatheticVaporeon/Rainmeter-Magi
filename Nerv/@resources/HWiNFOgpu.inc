@@ -3,12 +3,12 @@
 
 TempUnit=°C
 
-HWiNFOSensorId0=0xe0002000
+HWiNFOSensorId0=0xe0001800
 HWiNFOSensorInstance0=0x0
 HWiNFOType0=SensorName
 
 HWInfoDesc1=GPU Temp
-HWiNFOSensorId1=0xe0002000
+HWiNFOSensorId1=0xe0001800
 HWiNFOSensorInstance1=0x0
 HWiNFOEntryId1=0x1000000
 HWiNFOType1=CurrentValue
